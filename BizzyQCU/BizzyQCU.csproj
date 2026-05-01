@@ -14,11 +14,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BizzyQCU</RootNamespace>
     <AssemblyName>BizzyQCU</AssemblyName>
-<<<<<<< HEAD
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-=======
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
->>>>>>> master
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -108,16 +104,13 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
-<<<<<<< HEAD
     <Compile Include="Controllers\AdminPanelController.cs" />
-=======
     <Compile Include="Controllers\CheckoutController.cs" />
     <Compile Include="Controllers\EnterpriseDashboardController.cs" />
     <Compile Include="Controllers\ManageOrdersController.cs" />
     <Compile Include="Controllers\TrackingController.cs" />
     <Compile Include="Controllers\ChatroomController.cs" />
     <Compile Include="Controllers\EnterpriseController.cs" />
->>>>>>> master
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\EnterpriseListController.cs" />
     <Compile Include="Controllers\ProductListController.cs" />
@@ -127,7 +120,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Content Include="Content\AdminEditEntrep.css" />
     <Content Include="Content\AdminItemListing.css" />
     <Content Include="Content\AdminLandingEntrep.css" />
@@ -148,7 +140,6 @@
     <Content Include="Content\Images\Logo.png" />
     <Content Include="Content\Images\Users.png" />
     <Content Include="Content\LandingAdmin.css" />
-=======
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -191,13 +182,11 @@
     <Content Include="Content\Images\test-img1.jpg" />
     <Content Include="Content\Images\test-img2.jpg" />
     <Content Include="Content\ManageStyle.css" />
->>>>>>> master
     <Content Include="Content\trackingstyle.css" />
     <Content Include="Content\tracking.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-<<<<<<< HEAD
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -327,7 +316,6 @@
     <Content Include="Scripts\AdminItemListing.js" />
     <Content Include="Scripts\AdminLandingEntrep.js" />
     <Content Include="Scripts\AdminUsers.js" />
-=======
     <Content Include="Images\1.png" />
     <Content Include="Images\edit-icon.png" />
     <Content Include="Images\2.png" />
@@ -347,7 +335,6 @@
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
     <Content Include="Scripts\bootstrap.esm.min.js" />
->>>>>>> master
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\Checkout.js" />
@@ -363,7 +350,6 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\LandingAdmin.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-<<<<<<< HEAD
     <Content Include="Views\AdminPanel\AdminEditEntrep.cshtml" />
     <Content Include="Views\AdminPanel\AdminItemListing.cshtml" />
     <Content Include="Views\AdminPanel\AdminLandingEntrep.cshtml" />
@@ -371,7 +357,6 @@
     <Content Include="Views\AdminPanel\LandingAdmin.cshtml" />
     <None Include="Views\Home\history.cshtml" />
     <None Include="Views\Home\tracking.cshtml" />
-=======
     <Content Include="Scripts\ProductPageLogic.js" />
     <Content Include="Views\Home\history.cshtml" />
     <Content Include="Views\Home\RegisterStudent.cshtml" />
@@ -379,7 +364,6 @@
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Manage.cshtml" />
     <Content Include="Views\Home\tracking.cshtml" />
->>>>>>> master
     <Content Include="Web.config" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\_ViewStart.cshtml" />
