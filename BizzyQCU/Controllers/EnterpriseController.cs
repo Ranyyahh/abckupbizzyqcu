@@ -8,8 +8,7 @@ namespace BizzyQCU.Controllers
 {
     public class EnterpriseController : Controller
     {
-        // GET: Enterprise
-        public ActionResult Index()
+        public ActionResult ViewEnterprise()
         {
             return View();
         }
